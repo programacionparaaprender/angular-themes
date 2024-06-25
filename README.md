@@ -1,5 +1,21 @@
 # AngularThemes
 
+### crear proyecto angular
+>- ng new angular-themes --style=scss
+
+### vídeo
+>- https://www.youtube.com/watch?v=6wYiYsroqX4
+
+### configurar para temas
+>- https://primeng.org/installation
+>- npm install primeng --save
+>- npm install primeicons --save
+
+### primeblocks
+>- https://blocks.primeng.org/#/
+>- https://blocks.primeng.org/#/free
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
 
 ## Development server

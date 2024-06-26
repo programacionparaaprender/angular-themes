@@ -1,5 +1,11 @@
 @import '@angular/material/prebuilt-themes/deeppurple-amber.css';
-@include mat-core();
+
+
+.alternative {
+    background-color: red !important;
+}
+
+/* @include mat-core();
 
 $my-primary: mat-palette($mat-teal, 800);
 $my-accent: mat-palette($mat-light-green, 800);
@@ -13,4 +19,4 @@ $my-theme: mat-light-theme($my-primary, $my-accent);
     $my-accent: mat-palette($mat-light-green, 800);
     $my-theme: mat-light-theme($my-primary, $my-accent);
     @include angular-material-theme($my-theme);
-}
+} */
